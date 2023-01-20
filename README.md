@@ -1,9 +1,13 @@
-## Estou aprendendo
+# 👋 Hello! Welcome to my Github profile.
+## My name is Alisson Rocha and my nickname is "RoochhanDev" or "RochaDev"!
+
+
+## I'm learning
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="30" height="30"/>
 
 
-## Contatos:
+## Social-Medias:
 
 <div>
 <a href="https://www.youtube.com/Roochhan" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -11,6 +15,8 @@
 <a href = "mailto:roochhan@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/Roochhan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
+##
 
 <div>
 <a href="https://github.com/RoochhanDev">
