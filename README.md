@@ -29,5 +29,5 @@ My name is Alisson Rocha and my nickname is "RoochhanDev" or "RochaDev"!
 <a href="https://github.com/RoochhanDev">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RoochhanDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact=true&theme=dracula)](https://github.com/iuricode/)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact=true&theme=default)](https://github.com/iuricode/)
   
